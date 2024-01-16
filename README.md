@@ -35,8 +35,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/mhaikalshahab/"><img src="https://img.shields.io/badge/-M%20Istighfar%20Amal-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/shahab02251"><img src="https://img.shields.io/badge/-@m.istighfar__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="www.linkedin.com/in/mhaikalshahab/"><img src="https://img.shields.io/badge/-M%20Haikal%20Shahab-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/shahab02251"><img src="https://img.shields.io/badge/-@haikal__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
